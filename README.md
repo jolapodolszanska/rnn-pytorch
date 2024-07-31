@@ -1,3 +1,5 @@
+**This project is part of the assignments for students in the computer science major in the subject of Artificial Neural Networks and Deep Learning.**
+
 # Sentiment Analysis with LSTM RNN using PyTorch
 
 This project focuses on building a sentiment analysis model using Recurrent Neural Networks (RNN) with Long Short-Term Memory (LSTM) units. The dataset used is the IMDb Movie Reviews dataset, and the model utilizes GloVe embeddings for word representation.
